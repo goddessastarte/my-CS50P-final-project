@@ -12,16 +12,16 @@
 
 2. Click the **Compare** button  
    
-<img src="image.png" width="400"/>
+<img src="images/image.png" width="400"/>
 
 1. Upload 2 or 3 CSV files  
 1. Type a custom name for each file  
    
-<img src="image-1.png" width="400"/>
+<img src="images/image-1.png" width="400"/>
 
 1. Click **Compare Now** to see the chart!
    
-<img src="figure_1.png" width="400"/>
+<img src="images/Figure_1.png" width="400"/>
 
 
 - ✅ All data is processed using `pandas`
@@ -30,7 +30,7 @@
 
 ## Example CSV Format
 
-<img src="image-2.png" width="400"/>
+<img src="images/image-2.png" width="400"/>
 
 ## How I Tested It
 
